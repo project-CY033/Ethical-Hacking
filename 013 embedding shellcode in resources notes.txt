@@ -1,0 +1,12 @@
+[ Finding and Loading Resources ]
+https://docs.microsoft.com/en-us/windows/win32/menurc/finding-and-loading-resources
+
+[ FindResource ]
+https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-findresourcea
+
+[ LoadResource ]
+https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-loadresource
+
+[ Resources .RC files ]
+https://docs.microsoft.com/en-us/windows/win32/menurc/about-resource-files
+

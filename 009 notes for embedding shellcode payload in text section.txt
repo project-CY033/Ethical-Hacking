@@ -1,0 +1,12 @@
+
+[ VirtualAlloc ]
+https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualalloc
+
+[ RtlMoveMemory ]
+https://docs.microsoft.com/en-us/windows/win32/devnotes/rtlmovememory
+
+[ VirtualProtect ]
+https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualprotect
+
+[ CreateThread ]
+https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createthread
